@@ -4,4 +4,4 @@ inst=`grep ^inst /etc/init.d/uptime_httpd | cut -d= -f2`
 MIBDIRS=$inst/mibs
 export MIBDIRS
 
-/usr/local/uptime/apache/bin/php wpar_workload-ms.php
+/usr/local/uptime/apache/bin/php ../../plugins/scripts/aix-wpar-workload/wpar_workload-ms.php
