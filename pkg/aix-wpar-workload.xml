@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <uptime xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="5.0" target_grouping="other">
-    <class>aix-wpar-workload</class>
+    <class>AIX WPAR Workload</class>
     <exec>com.uptimesoftware.uptime.erdc.MonitorCustomScriptRunner</exec>
     <erdc_version>0.1</erdc_version>
     <category>Operating System Monitors</category>
