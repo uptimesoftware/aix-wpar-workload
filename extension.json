@@ -6,7 +6,7 @@
         ],
         "name": "AIX WPAR Workload",
         "git_file_target": "https://github.com/uptimesoftware/aix-wpar-workload/raw/develop/dist/aix-wpar-workload.zip",
-        "icon_url": "http://the-grid.uptimesoftware.com/img/posts/placeholder-logo.png",
+        "icon_url": "https://raw.githubusercontent.com/uptimesoftware/aix-wpar-workload/master/img/icon.png",
         "upgrade_in_place": true,
         "requires_additional_setup": false,
         "requires_agent_scripts": true,
