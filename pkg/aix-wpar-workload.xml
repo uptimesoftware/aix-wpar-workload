@@ -41,8 +41,7 @@
                 <string/>
             </gui_type>
         </element>
-        <element name="port" parameter_type="input" data_type="decimal" gui_basic="1"
-            range_type="0" units="">
+        <element name="port" parameter_type="input" data_type="decimal" gui_basic="1" range_type="0" units="">
             <control_options>size:4</control_options>
             <default_value> 9998 </default_value>
             <short_description>Agent Port</short_description>
@@ -185,8 +184,7 @@
             <error_message/>
             <gui_type><decimal/></gui_type>
         </element>
-        <element name="timer" parameter_type="output" data_type="integer" gui_basic="0"
-            range_type="0" units="ms">
+        <element name="timer" parameter_type="output" data_type="integer" gui_basic="0" range_type="0" units="ms">
             <control_options>size:8</control_options>
             <default_value/>
             <short_description>Response time</short_description>
@@ -198,5 +196,5 @@
             </gui_type>
         </element>
     </elements>
-    <help>Locally Mirror the Status of a Monitor/Element from a Remote Up.time Instance's API</help>
+    <help>Monitor AIX WPAR Workload</help>
 </uptime>
