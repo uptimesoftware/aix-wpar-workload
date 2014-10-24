@@ -15,7 +15,7 @@
             "windows",
             "linux"
         ],
-        "grid_url_target": "https://github.com/uptimesoftware/aix-wpar-workload",
+        "grid_url_target": "http://the-grid.uptimesoftware.com/plugin/aix-wpar-workload.html",
         "type": "plugin",
         "description": "Monitor AIX WPAR Workload"
   }
