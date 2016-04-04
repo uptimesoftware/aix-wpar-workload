@@ -4,6 +4,7 @@
 This plugin monitors various health & performance metrics for AIX WPAR's.
 
 ### Supported Monitoring Stations
+* 7.7
 * 7.6
 * 7.5
 * 7.4
