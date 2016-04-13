@@ -22,9 +22,7 @@ AIX
 
 ### Installation Notes
 
-[Install using the up.time Plugin Manager](https://github.com/uptimesoftware/uptime-plugin-manager)
-
-Also, on the AIX agent, please do the following:
+On the AIX agent, please do the following:
 a. Extract agent-files.zip
 b. Place the wpar-monitor.sh file in the directory /opt/uptime-agent/scripts/
 (create the directory if needed)
